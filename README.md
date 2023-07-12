@@ -1,1 +1,3 @@
 # amali
+# bug
+# jira
